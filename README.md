@@ -12,8 +12,6 @@ CSS
 [Github Page]()
 
 ## Screenshots 
+<img width="1792" alt="top" src="https://github.com/RhettRoseman/green-tree/assets/140462841/8c9355fc-5fcd-480e-af45-79852de6f0c4">
 
-<img width="1792" alt="Screenshot 2023-09-26 at 7 05 38 PM 2" src="https://github.com/RhettRoseman/green-tree/assets/140462841/5121f552-df6a-443d-b629-474f7e21f0ba">
-">
-<img src="https://github.com/RhettRoseman/green-tree/assets/140462841/7b03927f-7aff-4785-9e1b-1cdbe5e2cf86">
-"> 
+<img width="1792" alt="bottom" src="https://github.com/RhettRoseman/green-tree/assets/140462841/9ee9c855-e752-48b2-871b-db6daf2ab2b8">
