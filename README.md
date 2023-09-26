@@ -8,7 +8,8 @@ HTML
 CSS 
 
 ## Links 
-[Github]()
+[Github Repo](https://github.com/RhettRoseman/green-tree)
+[Github Page]()
 
 ## Screenshots 
 
